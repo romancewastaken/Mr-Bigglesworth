@@ -9,6 +9,7 @@
         Developed with love with Javascript
     </p>
 </div>
+<br>
 <div align="center">
     <img src="https://dfbmfbnnydoln.cloudfront.net/production/images/thumbnails/social-sharing-blizzard.bd930f964b7afdb55cf2f52f246f9d277924bc9e.jpg" alt="Logo" width="300" height="300">
 </a>
@@ -16,6 +17,7 @@
         Utilizing Blizzard's API
     </p>
 </div>
+<br>
 <div align="center">
     http.cat
 </a>
