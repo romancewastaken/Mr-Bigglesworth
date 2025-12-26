@@ -29,7 +29,7 @@
 ## Roadmap
 - [x] Generate token using oauth
 - [x] Validate token using api
-- [ ] Cache token and get a new one when current one is expired
+- [x] Cache token and get a new one when current one is expired
 - [ ] Account Profile Summary
 - [ ] Character Equipment Summary
 - [ ] Character Media Summary (Avatar render)
