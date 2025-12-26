@@ -5,6 +5,9 @@
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Logo" width="300" height="300">
 </a>
+    <div align="center">
+    <img src="https://images.opencollective.com/discordjs/b8b4805/background.png" alt="Logo" width="300" height="300">
+</a>
     <p align="center">        
         Developed with love with Javascript
     </p>
