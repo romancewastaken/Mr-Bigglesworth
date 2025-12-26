@@ -33,7 +33,7 @@
 - [ ] Account Profile Summary
 - [ ] Character Equipment Summary
 - [ ] Character Media Summary (Avatar render)
-- [ ] Character Dungeons
+- [x] Character Expansion Completed Dungeons (Used as a big foundation for other API calls)
 - [ ] Character Raids
 - [ ] Character Mythic Keystone Profile Index
 - [ ] Character Mythic Keystone Season Details
