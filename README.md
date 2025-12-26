@@ -29,22 +29,35 @@
     </p>
 </div>
 
-## Roadmap
+## Blizzard roadmap
+## General API usage
 - [x] Generate token using oauth
 - [x] Validate token using api
 - [x] Cache token and get a new one when current one is expired
-- [ ] Account Profile Summary
+## About character
 - [ ] Character Equipment Summary
 - [ ] Character Media Summary (Avatar render)
+- [ ] Character Achievements Summary
+- [ ] Character Achievement Statistics
+- [ ] Character Appearance Summary
+## Dungeons/Raids
 - [x] Character Expansion Completed Dungeons (Used as a big foundation for other API calls)
 - [ ] Character Expansion Completed Raids
 - [ ] Character Mythic Keystone Profile Index
 - [ ] Character Mythic Keystone Season Details
 - [ ] Character Encounters Summary
+## Collection
 - [ ] Account Transmog Collection Summary
 - [ ] Account Collections Index
 - [ ] Account Mounts Collection Summary
 - [ ] Account Toys Collection Summary
-- [ ] Character Achievements Summary
-- [ ] Character Achievement Statistics
-- [ ] Character Appearance Summary
+
+## Raider.io roadmap
+## Character
+- [ ] Character profile, this contains information such as: gear, talents, guild, class, active spec, raid progression, mythic+ score by season, recent runs, highest runs, weekly highest runs & previous mythic+ ranks
+## Mythic+
+- [ ] Affixes, get the latest region affix and the details about that affix
+- [ ] Specific run details
+## Guilds
+- [ ] Profiles, this contains information such as: name, faction, region, realm, raid rankings, 
+- [ ] Boss kill lookup
