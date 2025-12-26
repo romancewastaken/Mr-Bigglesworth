@@ -25,3 +25,23 @@
         Displaying request information
     </p>
 </div>
+
+## Roadmap
+- [x] Generate token using oauth
+- [x] Validate token using api
+- [ ] Cache token and get a new one when current one is expired
+- [ ] Account Profile Summary
+- [ ] Character Equipment Summary
+- [ ] Character Media Summary (Avatar render)
+- [ ] Character Dungeons
+- [ ] Character Raids
+- [ ] Character Mythic Keystone Profile Index
+- [ ] Character Mythic Keystone Season Details
+- [ ] Character Encounters Summary
+- [ ] Account Transmog Collection Summary
+- [ ] Account Collections Index
+- [ ] Account Mounts Collection Summary
+- [ ] Account Toys Collection Summary
+- [ ] Character Achievements Summary
+- [ ] Character Achievement Statistics
+- [ ] Character Appearance Summary
