@@ -1,5 +1,5 @@
 ## Mr Bigglesworth
-<img src="https://raw.githubusercontent.com/romancewastaken/Mr-Bigglesworth/refs/heads/main/logos/logo.png" alt="Logo" width="900" height="400">
+<img src="https://github.com/romancewastaken/Mr-Bigglesworth/blob/9754ffc6c6272d695af861f0610c728161b11d00/logos/logo.png" alt="Logo" width="900" height="400">
 
 ### Built With
 <div align="center">
