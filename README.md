@@ -7,8 +7,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="300" height="300"><br>
     <p>Developed with love with JavaScript</p><br>
   <img src="https://images.opencollective.com/discordjs/b8b4805/background.png" alt="discord.js" width="300" height="300"><br>
-    <p>Utilizing Blizzard's API</p><br>
   <img src="https://dfbmfbnnydoln.cloudfront.net/production/images/thumbnails/social-sharing-blizzard.bd930f964b7afdb55cf2f52f246f9d277924bc9e.jpg" alt="Blizzard API" width="300" height="300"><br>
+  <p>Utilizing Blizzard's API</p><br>
   <p>http.cat — Displaying request information</p>
 </div>
 
